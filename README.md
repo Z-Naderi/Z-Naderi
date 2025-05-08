@@ -60,3 +60,16 @@
   <img align="left" src="https://camo.githubusercontent.com/b534f22d604955a53fe8240fa78de5fbabdf4b76f15c7703f6911736dcada47b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6168726f6b682d4d266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" width="30%" />
 </p>
 <br/><br/><br/><br/><br/>
+
+
+<br/><br/><br/><br/><br/>
+<hr/>
+
+<h3 align="center">🎬 Just for Fun</h3>
+
+<p align="center">
+  <img src="https://github.com/Z-Naderi/Z-Naderi/blob/main/bernard.gif?raw=true" alt="bernard gif" width="350px" />
+</p>
+
+
+<!-- 🟣 گیف در انتهای پروفایل -->
