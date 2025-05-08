@@ -65,7 +65,7 @@
 <br/><br/><br/><br/><br/>
 <hr/>
 
-<h3 align="center">🎬 Just for Fun</h3>
+
 
 <p align="center">
   <img src="https://github.com/Z-Naderi/Z-Naderi/blob/main/bernard.gif?raw=true" alt="bernard gif" width="350px" />
