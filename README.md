@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahra</h1>
 <h3 align="left">A passionate backend and software developer from Iran</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=z-naderi&label=Profile%20views&color=0e75b6&style=flat" alt="z-naderi" />
-</p>
+
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <hr/>
@@ -53,13 +51,14 @@
   </a>
 </p>
 
-<h3 align="left">📊 My GitHub Stats:</h3>
+<h3 align="center">📊 My GitHub Stats:</h3>
 <hr/>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=z-naderi&show_icons=true&locale=en&theme=tokyonight" width="48%" />
-  <img align="left" src="https://camo.githubusercontent.com/b534f22d604955a53fe8240fa78de5fbabdf4b76f15c7703f6911736dcada47b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6168726f6b682d4d266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874" width="30%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z-naderi&show_icons=true&locale=en&theme=tokyonight" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-naderi&layout=compact&theme=tokyonight" width="45%" />
 </p>
-<br/><br/><br/><br/><br/>
+
 
 
 <br/><br/><br/><br/><br/>
