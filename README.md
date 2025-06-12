@@ -51,7 +51,7 @@
   </a>
 </p>
 
-<h3 align="center">📊 My GitHub Stats:</h3>
+<h3 align="left">📊 My GitHub Stats:</h3>
 <hr/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=z-naderi&show_icons=true&locale=en&theme=tokyonight" width="45%" />
