@@ -54,9 +54,9 @@
 <h3 align="left">📊 My GitHub Stats:</h3>
 <hr/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z-naderi&show_icons=true&locale=en&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=z-naderi&show_icons=true&locale=en&theme=tokyonight" width="46%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-naderi&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-naderi&layout=compact&theme=tokyonight" width="41%" />
 </p>
 
 
